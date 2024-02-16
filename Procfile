@@ -1,1 +1,1 @@
-worker: python3 game.py
+worker: python3 misc.py
